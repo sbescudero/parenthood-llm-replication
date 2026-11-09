@@ -6,7 +6,9 @@ This repository contains the data and code used to construct, validate, and asse
 
 ### Classification Data
 
-`kickstarter_narrative_and_bios_classified.csv` contains the campaign narratives and creator biographies for 135,615 Kickstarter campaigns, identified using study-assigned IDs. The file also includes the LLM-generated parenthood classifications used in our analyses and their supporting evidence.
+The full classification dataset is available as `kickstarter_narrative_and_bios_classified.zip` under [Release v1.0](https://github.com/sbescudero/parenthood-llm-replication/releases/tag/v1.0).
+
+The archive contains campaign narratives and creator biographies for 135,615 Kickstarter campaigns, identified using study-assigned IDs. It also includes the LLM-generated parenthood classifications and supporting evidence used in our analyses.
 
 ### Classification Code
 
