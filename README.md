@@ -1,6 +1,6 @@
 # Parenthood Disclosure: LLM Replication Materials
 
-This repository contains the data and code used to construct, validate, and assess the robustness of an LLM-based measure of entrepreneur parenthood disclosure in reward-based crowdfunding.
+This repository contains the data and code used to construct, validate, and assess the robustness of our LLM-based measure of entrepreneur parenthood disclosure in reward-based crowdfunding.
 
 ## Files
 
