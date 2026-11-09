@@ -1,7 +1,5 @@
 """Prompt and model sensitivity analysis of entrepreneur parenthood disclosure.
 
-Authors: See repository README.
-
 Set the OPENAI_API_KEY environment variable before running.
 
 """
